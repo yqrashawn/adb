@@ -12,7 +12,7 @@ DOMAIN,app.clearbit.com,REJECT
 DOMAIN,px.mountain.com,REJECT
 DOMAIN,sdk.split.io,REJECT
 DOMAIN,capture.trackjs.com,REJECT
-DOMAIN,d.clarity.ms,REJECT
+DOMAIN-SUFFIX,clarity.ms,REJECT
 DOMAIN,googleads.g.doubleclick.net,REJECT
 DOMAIN,q.quora.com,REJECT
 DOMAIN,www.google-analytics.com,REJECT
