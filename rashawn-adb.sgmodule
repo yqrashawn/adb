@@ -1,0 +1,33 @@
+#!name=Personal ADB, rashawn
+#!desc=This module is for personal use
+
+[Rule]
+DOMAIN-SUFFIX,dsum-sec.casalemedia.com,REJECT
+DOMAIN-SUFFIX,insight.adsrvr.org,REJECT
+DOMAIN,alb.clickup.codox.io,REJECT
+DOMAIN,events.split.io,REJECT
+DOMAIN,api.segment.io,REJECT
+DOMAIN-SUFFIX,g.doubleclick.net,REJECT
+DOMAIN,app.clearbit.com,REJECT
+DOMAIN,px.mountain.com,REJECT
+DOMAIN,sdk.split.io,REJECT
+DOMAIN,capture.trackjs.com,REJECT
+DOMAIN,d.clarity.ms,REJECT
+DOMAIN,googleads.g.doubleclick.net,REJECT
+DOMAIN,q.quora.com,REJECT
+DOMAIN,www.google-analytics.com,REJECT
+DOMAIN,www.googleadservices.com,REJECT
+DOMAIN,www.googletagmanager.com,REJECT
+DOMAIN,alb.reddit.com,REJECT
+DOMAIN-SUFFIX,i.clarity.ms,REJECT
+DOMAIN-SUFFIX,track.attributionapp.com,REJECT
+DOMAIN-SUFFIX,ulogs.umong.com,REJECT
+DOMAIN-SUFFIX,alogs.umong.com,REJECT
+DOMAIN-SUFFIX,logs.umong.com,REJECT
+DOMAIN-SUFFIX,ulogs.umong.co,REJECT
+DOMAIN-SUFFIX,alogs.umong.co,REJECT
+DOMAIN-SUFFIX,logs.umong.co,REJECT
+DOMAIN-SUFFIX,su.addthis.com,REJECT
+DOMAIN-SUFFIX,ulogs.umongcloud.com,REJECT
+DOMAIN-SUFFIX,alogs.umongcloud.com,REJECT
+DOMAIN-SUFFIX,logs.umongcloud.com,REJECT
